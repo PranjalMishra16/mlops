@@ -1,0 +1,5 @@
+outs:
+- md5: 9adffd0285609fd9880036b809439159
+  size: 10732
+  hash: md5
+  path: avocado_ripeness_clean.csv
